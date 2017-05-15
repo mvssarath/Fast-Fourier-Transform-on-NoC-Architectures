@@ -1,0 +1,2 @@
+# Fast-Fourier-Transform-on-NoC-Architectures
+With the system modeling techniques we have learned in the lectures and the SystemC experiences we have obtained in Project I, we are ready to construct more complicated systems on top of the NoC architecture following the system design methodology. The objective of this project is to complete the NoC model implemented in SystemC and to implement and evaluate a system that computes 8-point discrete Fourier transform  using fast Fourier transform following a well-defined design flow.
